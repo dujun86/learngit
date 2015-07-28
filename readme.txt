@@ -6,3 +6,4 @@ remote
 push
 new branch 4
 bug1
+ok
